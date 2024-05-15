@@ -27,7 +27,7 @@ title: Welcome to My Homepage!
 github_username: mtayyab2
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 plugins:
   - jemoji
   - jekyll-feed

@@ -25,6 +25,7 @@ email: ttlashari5@gmail.com
 #url: "https://mtayyab2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: mtayyab2
+linkedin_username: https://www.linkedin.com/in/mtayyab-ai
 
 # Build settings
 theme: minima

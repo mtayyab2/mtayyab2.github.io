@@ -1,2 +1,0 @@
-title: Portfolio
-permalink: /portfolio

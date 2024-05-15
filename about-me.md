@@ -16,4 +16,4 @@ My name is Muhammad Tahir Tayyab and I am an AI Developer, currently studying in
 - Human Robot Interaction
 - Research Methodology
 
-I have done projects mostly in machine learning(deep learning as well) algorithms and computer vision, but currently I am eploring LLMs and RAG applications. You can check my repos on my Github page (link down at the bottom).
+I have done projects mostly in machine learning(deep learning as well) algorithms and computer vision, but currently I am eploring LLMs and RAG applications. You can check my repos on my [Github](https:/github.com/mtayyab2).

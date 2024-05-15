@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to My Homepage!
-#email: ttlashari5@gmail.com
+title: Muhammad's Homepage!
+email: ttlashari5@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://mtayyab2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,7 +27,7 @@ title: Welcome to My Homepage!
 github_username: mtayyab2
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jemoji
   - jekyll-feed

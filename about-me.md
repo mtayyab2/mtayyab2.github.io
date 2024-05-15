@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about-me/
 ---
-## My name is Muhammad Tahir Tayyab and I am an AI Developer, currently studying in National University of Sciences and Technology, ISB, Pakistan. I am currently enrolled in Masters Degree in AI and Autonomous Systems. I have completed my course work which included the following subjects:
+
+My name is Muhammad Tahir Tayyab and I am an AI Developer, currently studying in National University of Sciences and Technology, ISB, Pakistan. I am currently enrolled in Masters Degree in AI and Autonomous Systems. I have completed my course work which included the following subjects:
 
 - Machine Learning
 - Artificial Neural Networks

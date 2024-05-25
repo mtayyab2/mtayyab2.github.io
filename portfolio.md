@@ -30,8 +30,8 @@ I led an impactful project to develop predictive models using machine learning a
 
 A project focused on camera calibration within Grand Theft Auto V's virtual environment, I utilized ScriptHook mod engine's epipolar geometry to autonomously derive precise camera poses. This work eliminated reliance on external knowledge of the game world and holds significant implications for 3D space applications in gaming, entertainment, and immersive technologies.
 
-## Tech Stack
 
+## Tech Stack
 ---
 
 **Programming Language:**
@@ -75,8 +75,8 @@ A project focused on camera calibration within Grand Theft Auto V's virtual envi
 
 - Stable Diffusion (1.5, 2.0, 2.1, SDXL 1.0)
 
----
 ## Currently Experimenting and Learning
+---
 
 **Natural Language Processing and Large Language Models (LLM):**
 

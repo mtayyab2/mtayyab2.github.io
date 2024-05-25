@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 
 
-Below, you'll find a selection of my most notable projects, showcasing both individual and collaborative efforts. While some projects may not be publicly available on my GitHub repository (due to freelance or confidential nature), I'm excited to share an overview of my accomplishments with you.
+Below, you'll find a selection of my most notable projects, showcasing both individual and collaborative efforts. While some projects may not be publicly available on my GitHub repository (due to freelance or confidential nature), I'm excited to share an overview of my accomplishments with you. You can also download my <a href="/assets/imgs/Tahir-Resume.pdf">Resume</a>.
 
 ### Chat with your PDFs Locally on Your PC
 

@@ -88,11 +88,11 @@ A project focused on camera calibration within Grand Theft Auto V's virtual envi
 
 **CI/CD Pipelines:**
 
-- Gitblab CI/CD
-- Docker
-- Kubernetes
+- `Gitblab CI/CD`
+- `Docker`
+- `Kubernetes`
 
 **Web Developement:**
 
-- Rest API
-- Django
+- `Rest API`
+- `Django`

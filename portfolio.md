@@ -6,7 +6,7 @@ layout: page
 permalink: /portfolio/
 ---
 
-## Portfolio
+
 
 Below, you'll find a selection of my most notable projects, showcasing both individual and collaborative efforts. While some projects may not be publicly available on my GitHub repository (due to freelance or confidential nature), I'm excited to share an overview of my accomplishments with you.
 
